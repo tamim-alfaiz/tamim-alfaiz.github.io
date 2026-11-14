@@ -43,12 +43,9 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 
 ## Core competencies
 
-**Container Technologies** CI/CD with GitHub Actions, Argo CD, and Bitbucket; Docker; Podman; and Quay registry.
-
-**DevOps Platforms** Red Hat OpenShift; Kubernetes; IBM Cloud and Cloud Pak; Oracle Cloud; AWS; and multicloud security posture management.
-
-**Machine Learning and Data Methods** Neural networks; deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas; NumPy; regular expressions; large-scale text processing; IBM Watson; experimental evaluation; and performance analysis.
-
-**Integration & Deployment** Integration, configuration, testing, and validation; GitHub Actions; CI/CD with Argo CD; IBM Cloud; OCI, including OKE and GPU nodes; LDAP; and backup integration.
-
-**Scholarly Practice** Technical writing; teaching; research presentation; and session chairing.
+| Group | Competencies |
+|:---|:---|
+| **Container Technologies**<br>**DevOps Platforms** | CI/CD GitHub Actions, Argo CD, Bitbucket, Docker, Podman, Quay registry; Red Hat OpenShift, Kubernetes, IBM Cloud/Cloud Pak, Oracle Cloud, AWS; multicloud security posture management |
+| **Machine Learning and Data Methods** | Neural networks, deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas, NumPy, regular expressions; large-scale text processing, IBM Watson, experimental evaluation, and performance analysis |
+| **Integration & Deployment** | Integration, configuration, testing, validation; GitHub Actions; CI/CD with Argo CD; IBM Cloud, OCI (OKE, GPU nodes); LDAP; backup integration |
+| **Scholarly Practice** | Technical writing; teaching; research presentation; session chairing |
