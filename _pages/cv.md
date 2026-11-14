@@ -11,12 +11,6 @@ redirect_from:
 
 Senior Software Engineer at Red Hat and former IBM Data Scientist with more than seven years of experience in applied artificial intelligence, natural language processing, data engineering, software containerization, and cloud native systems.
 
-## Education
-
-- **Master of Science in Computer Science**, School of Engineering and Computer Science, The Catholic University of America, Washington, D.C., United States (**2017–2019**) — GPA: 3.85/4.00
-- **Bachelor of Science in Computer Science**, School of Engineering and Computer Science, Taif University, Taif, Saudi Arabia (**2010–2014**) — GPA: 3.09/4.00
-- **Certificate of Completion — English Language Program**, University of Alabama in Huntsville, Huntsville, Alabama, United States (**2015–2017**) — Level V
-
 ## Experience
 
 ### Red Hat Middle East
@@ -49,4 +43,22 @@ Computational linguistics; Arabic natural language processing; semantic modellin
 
 ## Core competencies
 
-Neural networks; deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas; NumPy; regular expressions; large-scale text processing; IBM Watson; experimental evaluation; Arabic NLP and computational linguistics; semantic and contextual analysis; AraBERT and CAMeLBERT; named-entity recognition; semantic role labeling; LDA topic modeling; argument mining; Arabic OCR; Farasa; CAMeL Tools; Cloud Pak for Data; machine learning with Python; GPU deep learning; OpenShift; Kubernetes; CI/CD; IBM Cloud; Oracle OCI Cloud; LDAP; access control; Network Load Balancer; DNS; Red Hat Linux; root cause analysis reports; reference architectures; architecture decision records; operational reports; Docker; Podman; GPU computing; cloud computing and hybrid cloud; software supply chain security; capacity planning; automated deployment; performance analysis; technical writing; teaching; research presentation; session chairing.
+### Container Technologies
+
+CI/CD with GitHub Actions, Argo CD, and Bitbucket; Docker; Podman; and Quay registry.
+
+### DevOps Platforms
+
+Red Hat OpenShift; Kubernetes; IBM Cloud and Cloud Pak; Oracle Cloud; AWS; and multicloud security posture management.
+
+### Machine Learning and Data Methods
+
+Neural networks; deep learning with TensorFlow on GPUs; large language models (LLMs); question answering and information retrieval; dialogue system design; model evaluation; Python; Pandas; NumPy; regular expressions; large-scale text processing; IBM Watson; experimental evaluation; and performance analysis.
+
+### Integration & Deployment
+
+Integration, configuration, testing, and validation; GitHub Actions; CI/CD with Argo CD; IBM Cloud; OCI, including OKE and GPU nodes; LDAP; and backup integration.
+
+### Scholarly Practice
+
+Technical writing; teaching; research presentation; and session chairing.
